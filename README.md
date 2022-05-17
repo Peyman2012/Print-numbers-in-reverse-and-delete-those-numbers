@@ -1,0 +1,1 @@
+# Print-numbers-in-reverse-and-delete-those-numbers
